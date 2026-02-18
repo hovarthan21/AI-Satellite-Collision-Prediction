@@ -16,6 +16,10 @@ The **AI Satellite Collision Prediction System** is a space analytics platform t
 
 This system propagates satellite positions for **1 hour** and detects potential close approaches within a **10 km threshold**, optimized using **KD-Tree spatial indexing** for performance efficiency.
 
+<p align="center">
+  <img src="Satellite.jpg" width="650" alt="Food Logo" />
+</p>
+
 ---
 
 ##  Why This Project Was Developed
